@@ -6,7 +6,7 @@ I'm learning Python from scratch and using this repository to practise programmi
 
 ## 📚 Topics I'm Learning
 
-- [ ]Python Basics and Data Types
+- [ ] Python Basics and Data Types
 - [ ] Conditions and Loops
 - [ ] Lists, Tuples, Sets, and Dictionaries
 - [ ] Functions
