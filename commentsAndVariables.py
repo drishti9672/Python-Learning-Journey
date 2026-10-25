@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 print("hello world")
 
 
@@ -29,7 +28,7 @@ student_name="drishti"  #snake case
 
 """names given to the variable are
 called identifiers"""
-=======
+
 print("hello world")
 
 
@@ -60,4 +59,4 @@ student_name="drishti"  #snake case
 
 """names given to the variable are
 called identifiers"""
->>>>>>> 8c8670debc1eb811adb4b3e516e0ff157157e5fa
+
