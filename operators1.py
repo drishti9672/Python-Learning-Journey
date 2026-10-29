@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #operators= used for doing operations on values or variables
 
 #arithmetic operators
@@ -58,7 +58,7 @@ print("A"<"b")
 print("drishti"<"Drishti")
 
 # print("a"<51) u cannot compare strings with int
-=======
+
 #operators= used for doing operations on values or variables
 
 #arithmetic operators
@@ -117,4 +117,4 @@ print(name>name2)
 print("A"<"b")
 print("drishti"<"Drishti")
 print("a"<51)
->>>>>>> 8c8670debc1eb811adb4b3e516e0ff157157e5fa
+

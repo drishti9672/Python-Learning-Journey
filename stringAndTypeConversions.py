@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #strings takes more space because strings stores
 #every character with their own unicode
 """to find unicode of any string 
@@ -70,7 +70,7 @@ print("my name is",name,"I am ",age,"years old")
 #using formatted stringd
 print (f"my name is {name} I am {age} years old")
 
-=======
+
 #strings takes more space because strings stores
 #every character with their own unicode
 """to find unicode of any string 
@@ -141,4 +141,4 @@ print("my name is",name,"I am ",age,"years old")
 
 #using formatted stringd
 print (f"my name is {name} I am {age} years old")
->>>>>>> 8c8670debc1eb811adb4b3e516e0ff157157e5fa
+
